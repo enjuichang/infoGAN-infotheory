@@ -1,2 +1,2 @@
 # infoGAN-infothoery
-This repository shows the building of an infoGAN algorithm along with a discussion of the use of information theory in Chen et al. (2016).
+Information Theory is a developed theory on information communication, processing, and compressing. The use of information theory in Chen et al. (2016) shows the possibility of implementing Mutual Information (MI) in Machine Learning (ML) context. However, the authors did not explicitly dicuss the differences between the classical view of MI and their description. Therefore, we discussed the differences and similarities between the two as well as building a infoGAN based on the paper and code from the authors in OpenAI.
